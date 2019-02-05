@@ -1,7 +1,7 @@
 # Write-String-With-Doubles
 
-- First string is split in tokens, each token with length of 8.
-- Second check if the CPU is little endian or big endian
+- First string is split in tokens, each token with the length of 8.
+- Second check if the CPU is little endian or big endian.
 - If CPU is little endian the tokens are reversed, else they are not.
 - Tokens are converted to HEX.
 - Using an Union tokens are converted to double.
